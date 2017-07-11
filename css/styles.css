@@ -1,0 +1,16 @@
+body {
+  font-family: 'Telex', sans-serif;
+}
+
+.billboard {
+  width: 1440px;
+  height: 1315px;
+  background-image: url(images/your_verse_hero.jpg);
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+
+#logo {
+  height: 26px;
+  width: inherit;
+}
